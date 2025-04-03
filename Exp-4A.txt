@@ -1,6 +1,6 @@
-// NAME - SHIVENDRA DWIVEDI
-// PRN - 23070123122
-// EXPERIMENT -3  
+// NAME - NALIN KUMAR SRIVASTAVA
+// PRN - 23070123157
+// EXPERIMENT - 4 
 
 #include<iostream> 
 using namespace std; 
